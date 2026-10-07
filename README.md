@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Dedicated-Game-Server-Hosting?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -71,46 +71,46 @@ Welcome to the definitive curated directory of **dedicated game server hosting p
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)** [![Stars](https://img.shields.io/github/stars/itzg/docker-minecraft-server?style=social&color=white)](https://github.com/itzg/docker-minecraft-server/stargazers)  
-  **Docker image for Minecraft dedicated server**, MIT licensed. **14K+ GitHub stars** — Features automatic server download, modpack support (Forge, Fabric, Paper, Spigot), configuration via environment variables, and seamless containerization. 🐳
+  **Docker image for Minecraft dedicated server**, MIT licensed. **14K+ GitHub_Stars** — Features automatic server download, modpack support (Forge, Fabric, Paper, Spigot), configuration via environment variables, and seamless containerization. 🐳
 
 - **[Nakama](https://github.com/heroiclabs/nakama)** [![Stars](https://img.shields.io/github/stars/heroiclabs/nakama?style=social&color=white)](https://github.com/heroiclabs/nakama/stargazers)  
-  **Open-source game backend server**, Apache-2.0 licensed. **13K+ GitHub stars** — Provides real-time multiplayer, matchmaking, user accounts, social chat, leaderboards, and cloud save. Extensible via Lua, Go, and TypeScript. 🐉
+  **Open-source game backend server**, Apache-2.0 licensed. **13K+ GitHub_Stars** — Provides real-time multiplayer, matchmaking, user accounts, social chat, leaderboards, and cloud save. Extensible via Lua, Go, and TypeScript. 🐉
 
 - **[Pterodactyl Panel](https://github.com/pterodactyl/panel)** [![Stars](https://img.shields.io/github/stars/pterodactyl/panel?style=social&color=white)](https://github.com/pterodactyl/panel/stargazers)  
-  **Game server management panel with Docker isolation**, MIT licensed. **9K+ GitHub stars** — Runs game servers in isolated Docker containers with strict resource limits. Supports Minecraft, Rust, CS2, TF2, and 40+ games out of the box with web console and multi-node allocation. 🦖
+  **Game server management panel with Docker isolation**, MIT licensed. **9K+ GitHub_Stars** — Runs game servers in isolated Docker containers with strict resource limits. Supports Minecraft, Rust, CS2, TF2, and 40+ games out of the box with web console and multi-node allocation. 🦖
 
 - **[Colyseus](https://github.com/colyseus/colyseus)** [![Stars](https://img.shields.io/github/stars/colyseus/colyseus?style=social&color=white)](https://github.com/colyseus/colyseus/stargazers)  
-  **Multiplayer game server framework for Node.js**, MIT licensed. **7K+ GitHub stars** — State-synchronization framework for TypeScript/JavaScript game servers with room-based matchmaking and SDKs for Unity, Unreal, Construct, and HTML5. ⚔️
+  **Multiplayer game server framework for Node.js**, MIT licensed. **7K+ GitHub_Stars** — State-synchronization framework for TypeScript/JavaScript game servers with room-based matchmaking and SDKs for Unity, Unreal, Construct, and HTML5. ⚔️
 
 - **[Agones](https://github.com/agones-dev/agones)** [![Stars](https://img.shields.io/github/stars/agones-dev/agones?style=social&color=white)](https://github.com/agones-dev/agones/stargazers)  
-  **Kubernetes-native game server orchestration**, Apache-2.0 licensed. **7K+ GitHub stars** — **CNCF project** extending Kubernetes with Custom Resource Definitions (CRDs) to host, scale, and manage dedicated game server processes globally across any cloud or bare metal. ⚓
+  **Kubernetes-native game server orchestration**, Apache-2.0 licensed. **7K+ GitHub_Stars** — **CNCF project** extending Kubernetes with Custom Resource Definitions (CRDs) to host, scale, and manage dedicated game server processes globally across any cloud or bare metal. ⚓
 
 - **[LinuxGSM](https://github.com/GameServerManagers/LinuxGSM)** [![Stars](https://img.shields.io/github/stars/GameServerManagers/LinuxGSM?style=social&color=white)](https://github.com/GameServerManagers/LinuxGSM/stargazers)  
-  **Command-line tool for Linux dedicated game servers**, MIT licensed. **4.9K+ GitHub stars** — Quick and simple deployment, management, and monitoring for 120+ Linux dedicated game servers (Valheim, CS2, ARK, Rust, TF2). 🐧
+  **Command-line tool for Linux dedicated game servers**, MIT licensed. **4.9K+ GitHub_Stars** — Quick and simple deployment, management, and monitoring for 120+ Linux dedicated game servers (Valheim, CS2, ARK, Rust, TF2). 🐧
 
 - **[Open Match](https://github.com/googleforgames/open-match)** [![Stars](https://img.shields.io/github/stars/googleforgames/open-match?style=social&color=white)](https://github.com/googleforgames/open-match/stargazers)  
-  **Flexible, extensible matchmaking framework**, Apache-2.0 licensed. **3.4K+ GitHub stars** — **CNCF project** designed to integrate with Agones for complete multiplayer dedicated server placement and matchmaking logic. 🎯
+  **Flexible, extensible matchmaking framework**, Apache-2.0 licensed. **3.4K+ GitHub_Stars** — **CNCF project** designed to integrate with Agones for complete multiplayer dedicated server placement and matchmaking logic. 🎯
 
 - **[Pitaya](https://github.com/topfreegames/pitaya)** [![Stars](https://img.shields.io/github/stars/topfreegames/pitaya?style=social&color=white)](https://github.com/topfreegames/pitaya/stargazers)  
-  **Scalable, distributed game server framework**, MIT licensed. **2.8K+ GitHub stars** — Written in Go with clustering support, RPC communications, and client libraries for Unity, iOS, Android, and C. 🚀
+  **Scalable, distributed game server framework**, MIT licensed. **2.8K+ GitHub_Stars** — Written in Go with clustering support, RPC communications, and client libraries for Unity, iOS, Android, and C. 🚀
 
 - **[PufferPanel](https://github.com/pufferpanel/pufferpanel)** [![Stars](https://img.shields.io/github/stars/pufferpanel/pufferpanel?style=social&color=white)](https://github.com/pufferpanel/pufferpanel/stargazers)  
-  **Open-source game server management panel**, Apache-2.0 licensed. **1.7K+ GitHub stars** — Lightweight web console written in Go for managing game server instances for personal networks and community hosters. 🎛️
+  **Open-source game server management panel**, Apache-2.0 licensed. **1.7K+ GitHub_Stars** — Lightweight web console written in Go for managing game server instances for personal networks and community hosters. 🎛️
 
 - **[Kruise-Game](https://github.com/openkruise/kruise-game)** [![Stars](https://img.shields.io/github/stars/openkruise/kruise-game?style=social&color=white)](https://github.com/openkruise/kruise-game/stargazers)  
-  **Game Server Workload Management on Kubernetes**, Apache-2.0 licensed. **1K+ GitHub stars** — Cloud-native Kubernetes operator tailored for game server state management, warm-up pools, and in-place updates. 🎮
+  **Game Server Workload Management on Kubernetes**, Apache-2.0 licensed. **1K+ GitHub_Stars** — Cloud-native Kubernetes operator tailored for game server state management, warm-up pools, and in-place updates. 🎮
 
 - **[Open Game Panel](https://github.com/OpenGamePanel/OGP-Website)** [![Stars](https://img.shields.io/github/stars/OpenGamePanel/OGP-Website?style=social&color=white)](https://github.com/OpenGamePanel/OGP-Website/stargazers)  
-  **Classic web-based game server control panel**, GPL-2.0 licensed. **130+ GitHub stars** — Agent-based remote control system utilizing lightweight Perl agents for server administration and XML game configs. 🕹️
+  **Classic web-based game server control panel**, GPL-2.0 licensed. **130+ GitHub_Stars** — Agent-based remote control system utilizing lightweight Perl agents for server administration and XML game configs. 🕹️
 
 - **[Space Agon](https://github.com/googleforgames/space-agon)** [![Stars](https://img.shields.io/github/stars/googleforgames/space-agon?style=social&color=white)](https://github.com/googleforgames/space-agon/stargazers)  
-  **Agones + Open Match integration reference demo**, Apache-2.0 licensed. **50+ GitHub stars** — End-to-end open-source multiplayer server demo demonstrating dedicated server orchestration on GKE. 🌌
+  **Agones + Open Match integration reference demo**, Apache-2.0 licensed. **50+ GitHub_Stars** — End-to-end open-source multiplayer server demo demonstrating dedicated server orchestration on GKE. 🌌
 
 - **[GameServerKeeper](https://github.com/GameServerKeeper/GameServerKeeper)** [![Stars](https://img.shields.io/github/stars/GameServerKeeper/GameServerKeeper?style=social&color=white)](https://github.com/GameServerKeeper/GameServerKeeper/stargazers)  
-  **Game server management and orchestration**, open-source. **50+ GitHub stars** — Container-based game server deployment with automated health checks and fleet scaling. 🛠️
+  **Game server management and orchestration**, open-source. **50+ GitHub_Stars** — Container-based game server deployment with automated health checks and fleet scaling. 🛠️
 
 ---
 
@@ -120,7 +120,7 @@ Contributions are warmly welcomed! Follow these steps to submit new game server 
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` keeping the standard Markdown table & list formatting.
-3. 🔗 Include exact pricing details, free tier limits, company valuation/market cap, and star count badges.
+3. 🔗 Include exact pricing details, free tier limits, company valuation/market cap, and Stars_Count badges.
 4. 🚀 Submit a **Pull Request** with a brief summary of your additions.
 
 ---
